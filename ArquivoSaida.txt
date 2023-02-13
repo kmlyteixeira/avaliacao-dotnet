@@ -1,0 +1,2 @@
+Array Ordenado com Insertion Sort: 2 | 5 | 8 | 10 | 60 | 99
+Ordenação natural da Collection SortedSet: 2 | 5 | 8 | 10 | 60 | 99
